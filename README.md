@@ -22,9 +22,30 @@ Compartir las campañas vigentes para que la audiencia se sienta identificada o 
 
 ### ¿cuál es la personalidad de la marca?
 * tipografía
+* * Serif: formal, confiable, maduro
+* * Sans serif: informal, agradable, moderno
+* * Script: usualmente femenino, elaborado, especial
+* * Mayúsculas: impactante, fuerte, insistente
+* * Minúsculas: informal, relajado
+* * Mayúsculas y minúsculas: confiable, sólido, expectante
 * colores
+* * Color cálido: feliz, estimulante, activo
+* * Color frío: calma, relax, serenidad
+* * Sin color: rígido, sombrío, simple
+* * Color complementario: armonía, tranquilidad, calma
+* * Color de contraste: fuerte, activo, impactante, caótico, enérgico
+* * Saturación: intensidad, fuerza
 * imágenes
-* estilo
+* estilo sorprendente
+* * ¿formal o divertido?
+* * ¿grande o pequeño?
+* * ¿reservado o extrovertido?
+* * ¿moderno o clásico?
+* * ¿premium o económico?
+* * ¿masculino o femenino?
+* * ¿rígido o flexible?
+* * ¿joven o maduro?
+* * ¿encantador o amistoso?
 * figura pública
 
 ### ¿con qué sentido de pertenencia se vincula la empresa y la comunidad?
