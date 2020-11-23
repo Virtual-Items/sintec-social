@@ -1,15 +1,14 @@
 ## Email marketing
-* longitud de 140 a 280 caraceres
+* asunto de 4 a 7 palabras (20 a 60 caracteres)
+* cuerpo con longitud de 140 a 280 caracteres
 
-
-
-### saludo positivo
+### Saludo positivo
 Hola NOMBRE.
-- Felicitaciones por lo que están haciendo en EMPRESA.
-- Felicitaciones por hacer parte de la comunidad de EMPRESA
+* Felicitaciones por lo que están haciendo en EMPRESA.
+* Felicitaciones por hacer parte de la comunidad de EMPRESA
 
-### intención escondida
-Tengo una propuesta para hacerte.
+### Curiosidad
+* Tengo una propuesta para hacerte.
 
-### llamado a la acción y despido positivo.
-Mándame tu número y qué bueno conectarnos. ¡Saludos!
+### Llamado a la acción y despido positivo.
+* Mándame tu número y qué bueno conectarnos. ¡Saludos!
