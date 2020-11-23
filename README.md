@@ -122,4 +122,5 @@ Con la primera conversión generalmente se busca establecer confianza y comunica
 * landing
 * checkout
 * upselling
+* confirmación positiva
 * seguimiento
