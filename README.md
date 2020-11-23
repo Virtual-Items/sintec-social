@@ -93,13 +93,11 @@ Definir el tipo de contenido por el que la audiencia sigue la página
 * hashtags
 
 ### ¿cómo hacer una excelente descripción de contenido?
+### ¿cómo establecer el esquema del email?
 ### ¿cómo vincular emocionalmente al espectador con el contenido?
 ### ¿cómo segmentar la audiencia de los anuncios?
 ### ¿qué métricas priorizar para medir la efectividad de las campañas?
 ### ¿qué estrategias ejecutar según la economía de la atención para la captación y retención de usuarios?
-
-
-
 
 -------------------------------------------------------------------------------
 
