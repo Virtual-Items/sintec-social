@@ -25,10 +25,6 @@ Compartir las campañas vigentes para que la audiencia se sienta identificada o 
 * colores
 * imágenes
 * estilo
-* longitud de texto o duración de video
-* horario de publicación o envío
-* caracteres, palabras y lemas en el mensaje
-* hashtags
 * figura pública
 
 ### ¿con qué sentido de pertenencia se vincula la empresa y la comunidad?
@@ -85,6 +81,25 @@ Dar siempre seguimiento a las personas interesadas en la marca y a los consumido
 
 ### ¿me siguen por entretenimiento, información o inspiración?
 Definir el tipo de contenido por el que la audiencia sigue la página
+
+-------------------------------------------------------------------------------
+
+## POST
+
+### ¿cómo establecer la configuración del post o email?
+* longitud de texto o duración de video
+* horario de publicación o envío
+* caracteres especiales, palabras clave y lemas en el mensaje
+* hashtags
+
+### ¿cómo hacer una excelente descripción de contenido?
+### ¿cómo vincular emocionalmente al espectador con el contenido?
+### ¿cómo segmentar la audiencia de los anuncios?
+### ¿qué métricas priorizar para medir la efectividad de las campañas?
+### ¿qué estrategias ejecutar según la economía de la atención para la captación y retención de usuarios?
+
+
+
 
 -------------------------------------------------------------------------------
 
