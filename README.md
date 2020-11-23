@@ -67,7 +67,7 @@ Observar constantemente perfiles afines dará información sobre el estado del a
 ### ¿cuál es la cultura de la comunidad?
 Definir valores con los cuales la audiencia se sienta identificada.
 
-### ¿que me compran?
+### ¿qué me compran?
 Definir cuál es la propuesta de valor de la marca y entender cómo los clientes usan lo que compran
 
 ### ¿qué efectividad tienen los productos o servicios que ofrece la marca?
