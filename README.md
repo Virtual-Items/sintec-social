@@ -54,7 +54,7 @@ Definir el perfil del comprador una vez adquiere el producto o servicio y lo imp
 -------------------------------------------------------------------------------
 
 ## INFLUYENTES
-Observar constantemente a perfiles afines dará información sobre el estado del arte de la industria en redes sociales.
+Observar constantemente perfiles afines dará información sobre el estado del arte de la industria en redes sociales.
 
 ### ¿quién es aliado de la marca?
 ### ¿qué modelos a seguir tiene la marca?
