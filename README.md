@@ -1,24 +1,8 @@
 # Definición de perfil para plataformas de redes sociales
 
-## procedimientos internos
-
-### embudo de ventas
-* conocimiento
-* prospección
-* calificación
-* seguimiento
-* cierre
-
-### proceso consistente de compra
-* anuncio
-* landing
-* checkout
-* upselling
-* seguimiento
-
 -------------------------------------------------------------------------------
 
-## filosofía de marca ¿quién soy?:
+## filosofía de marca ¿quién soy?
 La marca comercial es todo lo que distingue a una propuesta. Su principal objetivo es ser un diferenciador con respecto de la competencia y posicionarse en el imaginario de su audiencia.
 
 ### ¿cuál es la razón de ser de la marca?
@@ -82,7 +66,7 @@ Observar constantemente a perfiles afines dará información sobre el estado del
 
 -------------------------------------------------------------------------------
 
-## comunidad:
+## comunidad
 
 ### ¿cuál la cultura de la comunidad?
 Definir valores con los cuales la audiencia se sienta identificada.
@@ -104,8 +88,25 @@ Definir el tipo de contenido por el que la audiencia sigue la página
 
 -------------------------------------------------------------------------------
 
-## venta:
+## venta
+
+### ¿qué canales de distribución se usan para entregar el producto o servicio a los clientes?
 
 ### ¿cuales son las últimas novedades del producto?
-### ¿qué canales de distribución se usan para entregar el producto o servicio a los clientes?
+
 ### ¿qué se ofrece como versión de prueba?
+Con la primera conversión generalmente se busca establecer confianza y comunicación con el consumidor
+
+### embudo de ventas
+* conocimiento
+* prospección
+* calificación
+* seguimiento
+* cierre
+
+### proceso consistente de compra
+* anuncio
+* landing
+* checkout
+* upselling
+* seguimiento
