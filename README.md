@@ -111,7 +111,6 @@ Definir el tipo de contenido por el que la audiencia sigue la página
 Con la primera conversión generalmente se busca establecer confianza y comunicación con el consumidor
 
 ### embudo de ventas
-* conocimiento
 * prospección
 * calificación
 * seguimiento
