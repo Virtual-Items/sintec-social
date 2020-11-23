@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-## filosofía de marca ¿quién soy?
+## FILOSOFÍA (¿quién soy?)
 La marca comercial es todo lo que distingue a una propuesta. Su principal objetivo es ser un diferenciador con respecto de la competencia y posicionarse en el imaginario de su audiencia.
 
 ### ¿cuál es la razón de ser de la marca?
@@ -10,6 +10,15 @@ Describir la misión de la marca, es decir, el propósito de su proceder.
 
 ### ¿cuáles son los valores de la marca?
 Definir valores de la marca que complementen la propuesta de valor.
+
+### ¿cuál es la historia de la marca?
+Dar a conocer la historia de la marca para que la audiencia se sienta identificada o impresionada.
+
+### ¿cuál es la visión de la marca?
+Definir una meta clara y concisa de acuerdo con la misión de la marca.
+
+### ¿qué está haciéndo la marca por su misión y visión?
+Compartir las campañas vigentes para que la audiencia se sienta identificada o impresionada.
 
 ### ¿cuál es la personalidad de la marca?
 * tipografía
@@ -21,15 +30,6 @@ Definir valores de la marca que complementen la propuesta de valor.
 * caracteres, palabras y lemas en el mensaje
 * hashtags
 * figura pública
-
-### ¿cuál es la historia de la marca?
-Dar a conocer la historia de la marca para que la audiencia se sienta identificada o impresionada.
-
-### ¿cuál es la visión de la marca?
-Definir una meta clara y concisa de acuerdo con la misión de la marca.
-
-### ¿qué está haciéndo la marca por su misión y visión?
-Compartir las campañas vigentes para que la audiencia se sienta identificada o impresionada.
 
 ### ¿con qué sentido de pertenencia se vincula la empresa y la comunidad?
 A qué grupo de personas quiere reunir la marca en su audiencia
@@ -57,7 +57,7 @@ Definir el perfil del comprador una vez adquiere el producto o servicio y lo imp
 
 -------------------------------------------------------------------------------
 
-## influyentes
+## INFLUYENTES
 Observar constantemente a perfiles afines dará información sobre el estado del arte de la industria en redes sociales.
 
 ### ¿quién es aliado de la marca?
@@ -66,7 +66,7 @@ Observar constantemente a perfiles afines dará información sobre el estado del
 
 -------------------------------------------------------------------------------
 
-## comunidad
+## COMUNIDAD
 
 ### ¿cuál la cultura de la comunidad?
 Definir valores con los cuales la audiencia se sienta identificada.
@@ -88,7 +88,7 @@ Definir el tipo de contenido por el que la audiencia sigue la página
 
 -------------------------------------------------------------------------------
 
-## venta
+## VENTA
 
 ### ¿qué canales de distribución se usan para entregar el producto o servicio a los clientes?
 
