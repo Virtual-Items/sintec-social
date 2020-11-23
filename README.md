@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-## FILOSOFÍA (¿quién soy?)
+## FILOSOFÍA
 La marca comercial es todo lo que distingue a una propuesta. Su principal objetivo es ser un diferenciador con respecto de la competencia y posicionarse en el imaginario de su audiencia.
 
 ### ¿cuál es la razón de ser de la marca?
