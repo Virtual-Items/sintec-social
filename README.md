@@ -64,7 +64,7 @@ Observar constantemente a perfiles afines dará información sobre el estado del
 
 ## COMUNIDAD
 
-### ¿cuál la cultura de la comunidad?
+### ¿cuál es la cultura de la comunidad?
 Definir valores con los cuales la audiencia se sienta identificada.
 
 ### ¿que me compran?
